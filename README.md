@@ -1,3 +1,3 @@
 # .github
 
-best org
+the best org
